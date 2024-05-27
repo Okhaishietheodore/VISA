@@ -1,5 +1,6 @@
 #Deploying a python web application
 # Shell Script
-echo "Hello Word"
+#echo "Hello Word"
 # Python Script
-python('Hello World')
+#python('Hello World')
+print('Hello World')
